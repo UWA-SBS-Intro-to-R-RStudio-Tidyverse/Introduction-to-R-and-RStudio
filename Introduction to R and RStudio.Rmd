@@ -2,7 +2,7 @@
 title: "Introduction to R and RStudio"
 author: "TimLanglois"
 date: "13/01/2020"
-output: html_document
+output: github_document
 ---
 
 ---
