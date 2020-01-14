@@ -1,15 +1,15 @@
-Links to useful resources
 
 
+[Introduction-to-R-and-RStudio](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-R-and-RStudio/blob/86a9dc7c9b852665bd956d7747ccfa4dc6601174/Introduction-to-R-and-RStudio.md)
 
-[Analysis-lobster-density](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/08359a2a1a36acde4f2b6532f14e4dab49eeb310/README.md)
 
-[1_lobster-density_import-from-gsheet](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/4530c633e60c4e3ea610ea27bf4a1d24b6a807e2/1_lobster-density_import-from-gsheet.md)
+[Introduction-to-tidyverse-and-pipes](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-tidyverse-and-pipes/blob/5842bdd5272696b56a82979cdfad1331ee122f5a/Using-tidyverse-and-pipes.md)
 
-[2_lobster-density_check-data](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/4530c633e60c4e3ea610ea27bf4a1d24b6a807e2/2_lobster-density_check-data.md)
 
-[3_lobster-density_basic-plots-to-check-data](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/4530c633e60c4e3ea610ea27bf4a1d24b6a807e2/3_lobster-density_basic-plots-to-check-data.md)
+[dplyr and tidyr](https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/)
 
-[4_lobster-density_advanced-plots](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/234351d599d9e8c931c3bdf610e34f7980c6b273/4_lobster-density_advanced-plots.md)
 
-[5_lobster-density_format-for-PRIMER](https://github.com/UWA-BIOL4407-Marine-Ecology/Analysis-lobster-density/blob/234351d599d9e8c931c3bdf610e34f7980c6b273/5_lobster-density_format-for-PRIMER.md)
+[Jenny Bryan's excellent R course](https://stat545.com/)
+
+
+[Happy Git with R](https://happygitwithr.com/)
