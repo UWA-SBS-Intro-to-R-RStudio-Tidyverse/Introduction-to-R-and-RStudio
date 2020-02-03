@@ -6,7 +6,7 @@
 [Introduction-to-tidyverse-and-pipes](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-tidyverse-and-pipes/blob/master/Using-tidyverse-and-pipes.md)
 
 
-[Introduction-to-ecocloud](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-ecocloud/blob/master/README.md)
+[Introduction-to-ecocloud](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-ecocloud/blob/master/1_introduction-to-ecocloud.md)
 
 
 [dplyr and tidyr](https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/)
